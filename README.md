@@ -3,26 +3,26 @@
 A simple password manager built in Python using:
 
 - Classes & OOP
-- 
+  
 - Encode/Decode system (Caesar shift)
-- 
+  
 - File storage
-- 
+  
 - Search functionality
-- 
+  
 - Error handling
-- 
+  
 - Menu-driven UI
-- 
+  
 
 This project demonstrates how to:
 
 - Securely store passwords (encoded)
-- 
+  
 - Display decoded values to the user
-- 
+  
 - Rebuild objects from text files
-- 
+  
 - Use file I/O, loops, and string processing
 
 ## Features
